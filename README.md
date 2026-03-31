@@ -16,9 +16,9 @@
 <br/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarush2907&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swetaadas&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
 <br />
 
-[![](https://visitcount.itsvg.in/api?id=Aarush2907&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=swetaadas&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
